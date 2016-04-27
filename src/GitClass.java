@@ -1,5 +1,6 @@
 
 public class GitClass {
 // de la merde ... mais vraiment !
-	//de la merde au ccarre ง
+	//de la merde au ccarre ยง
+	// 3e comment
 }
