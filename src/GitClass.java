@@ -1,4 +1,4 @@
 
 public class GitClass {
-// de la merde 
+// de la merde ... mais vraiment !
 }
